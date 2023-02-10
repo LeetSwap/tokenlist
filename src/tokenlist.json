@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-02-01T12:40:00.000Z",
+    "timestamp": "2023-02-10T13:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -79,6 +79,14 @@
             "decimals": 18,
             "chainId": 7700,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/upsample.png"
+        },
+        {
+            "name": "BankNote",
+            "address": "0x6f6BAe4110eCC33fE4E330b16b8df2A5E9807658",
+            "symbol": "BANK",
+            "decimals": 9,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bank.png"
         },
         {
             "name": "TATE COIN",
