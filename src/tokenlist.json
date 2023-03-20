@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-02-10T13:00:00.000Z",
+    "timestamp": "2023-03-20T01:50:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
@@ -15,6 +15,22 @@
             "decimals": 18,
             "chainId": 7700,
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
+        },
+        {
+            "name": "Leet",
+            "address": "0x9aeff862435Cc243D12CEe915e7129629c6a8D5D",
+            "symbol": "LEET",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
+        },
+        {
+            "name": "xLEET",
+            "address": "0x32c89133c2702cBde22261D09372C5Bb7815C6CA",
+            "symbol": "XLEET",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
         },
         {
             "name": "ETH",
