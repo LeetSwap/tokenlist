@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-03-20T01:50:00.000Z",
+    "timestamp": "2023-03-29T05:50:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tokens": [
@@ -30,6 +30,22 @@
             "symbol": "XLEET",
             "decimals": 18,
             "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
+        },
+        {
+            "name": "@LeetSwap",
+            "address": "0xEA0B7a3256829190eA5f587509dEE953d213461c",
+            "symbol": "LEET",
+            "decimals": 18,
+            "chainId": 1101,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
+        },
+        {
+            "name": "xLEET",
+            "address": "0x475089fd520af9FD1Fa2CD9933d5B38C07608500",
+            "symbol": "XLEET",
+            "decimals": 18,
+            "chainId": 1101,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
         },
         {
