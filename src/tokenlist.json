@@ -1,11 +1,11 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-03-30T02:55:00.000Z",
+    "timestamp": "2023-04-01T03:55:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 6,
-        "patch": 1
+        "minor": 7,
+        "patch": 0
     },
     "tokens": [
         {
@@ -55,6 +55,14 @@
             "decimals": 18,
             "chainId": 1101,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
+        },
+        {
+            "name": "Poly zkDOGE",
+            "address": "0x3dc1607D48Ec9f8ea1993eD96255883E68852C05",
+            "symbol": "pzkDOGE",
+            "decimals": 18,
+            "chainId": 1101,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/pzkdoge.jpg"
         },
         {
             "name": "ETH",
