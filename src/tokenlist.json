@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-04-25T03:55:00.000Z",
+    "timestamp": "2023-04-26T11:35:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
     "tokens": [
@@ -63,6 +63,14 @@
             "decimals": 18,
             "chainId": 1101,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/pzkdoge.jpg"
+        },
+        {
+            "name": "3 Comma Club",
+            "address": "0x31fbf0CEFf0C0270aB5f926291eD144F6803CF83",
+            "symbol": "THREE",
+            "decimals": 18,
+            "chainId": 1101,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/three.jpg"
         },
         {
             "name": "ETH",
