@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+    <circle cx="25" cy="25" r="20" fill="black" stroke="green" stroke-width="2" />
+    <polygon points="25,10 15,30 35,30" fill="purple" />
+    <text x="11" y="37" font-family="monospace" font-size="5" fill="white">CantoPulse</text>
+</svg>
