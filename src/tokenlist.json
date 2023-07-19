@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-05-15T14:50:00.000Z",
+    "timestamp": "2023-07-19T00:25:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 11,
+        "minor": 12,
         "patch": 0
     },
     "tokens": [
@@ -263,6 +263,30 @@
             "name": "GMX",
             "symbol": "GMX",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a/logo.png"
+        },
+        {
+            "name": "Wrapped ETH",
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "Leet",
+            "address": "0x0963a1aBAF36Ca88C21032b82e479353126A1C4b",
+            "symbol": "LEET",
+            "decimals": 18,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
+        },
+        {
+            "name": "xLEET",
+            "address": "0xdf0D02351A3e7A21D3936cf1CFd1ee554Cee0a80",
+            "symbol": "XLEET",
+            "decimals": 18,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
         }
     ]
 }
