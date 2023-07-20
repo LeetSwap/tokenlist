@@ -1,11 +1,11 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-20T15:55:00.000Z",
+    "timestamp": "2023-07-20T19:35:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
         "minor": 17,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
