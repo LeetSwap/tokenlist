@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-19T21:55:00.000Z",
+    "timestamp": "2023-07-20T15:55:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 16,
+        "minor": 17,
         "patch": 0
     },
     "tokens": [
@@ -292,7 +292,7 @@
             "name": "Linea Kishu",
             "address": "0x07c14eCf64A6052B514f10C5Dec7a73C862853A5",
             "symbol": "LKISHU",
-            "decimals": 18,
+            "decimals": 9,
             "chainId": 59144,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/lkishu.jpg"
         },
