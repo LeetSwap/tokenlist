@@ -1,11 +1,11 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-23T19:39:00.000Z",
+    "timestamp": "2023-07-23T21:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
         "minor": 19,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -297,7 +297,7 @@
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ldoge.png"
         },
         {
-            "name": "BUSD (via Celer.Network)",
+            "name": "BUSD via Celer Network",
             "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
             "symbol": "BUSD",
             "decimals": 18,
