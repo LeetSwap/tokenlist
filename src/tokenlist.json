@@ -1,11 +1,11 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-23T21:00:00.000Z",
+    "timestamp": "2023-07-24T10:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 19,
-        "patch": 1
+        "minor": 20,
+        "patch": 0
     },
     "tokens": [
         {
@@ -303,6 +303,14 @@
             "decimals": 18,
             "chainId": 59144,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+        },
+        {
+            "name": "Linea Shib",
+            "address": "0x7c6cf89b91D47E29c15A2B90F0CE1b0ac9363766",
+            "symbol": "LSHIB",
+            "decimals": 9,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/lshib.jpg"
         }
     ]
 }
