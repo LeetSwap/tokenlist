@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-26T15:00:00.000Z",
+    "timestamp": "2023-07-27T11:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 22,
+        "minor": 23,
         "patch": 0
     },
     "tokens": [
@@ -335,6 +335,14 @@
             "decimals": 18,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
+        },
+        {
+            "name": "Doge Base",
+            "address": "0xA3044b2a9ae8073EcC4E277f6246b3b00FC93553",
+            "symbol": "DBASE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/dbase.jpg"
         }
     ]
 }
