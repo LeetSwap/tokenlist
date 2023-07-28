@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-28T09:00:00.000Z",
+    "timestamp": "2023-07-28T13:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 24,
+        "minor": 25,
         "patch": 0
     },
     "tokens": [
@@ -343,6 +343,14 @@
             "decimals": 18,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/dbase.jpg"
+        },
+        {
+            "name": "x",
+            "address": "0x6067451115b40d49046a17C2f9a6246363F61c72",
+            "symbol": "X",
+            "decimals": 9,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xbase.jpg"
         }
     ]
 }
