@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-28T13:00:00.000Z",
+    "timestamp": "2023-07-28T19:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 25,
+        "minor": 26,
         "patch": 0
     },
     "tokens": [
@@ -351,6 +351,14 @@
             "decimals": 9,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xbase.jpg"
+        },
+        {
+            "name": "Ace Of Base",
+            "address": "0xed33162494AdBf4bBe0Aa8F28eeA4cD131c3c404",
+            "symbol": "ACE",
+            "decimals": 9,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ace.jpg"
         }
     ]
 }
