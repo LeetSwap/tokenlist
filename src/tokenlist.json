@@ -383,6 +383,14 @@
             "decimals": 9,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ace.jpg"
+        },
+        {
+            "name": "Bob Inu",
+            "address": "0x0Cc191eF1f15699d0b03094f95dE887dd04037A1",
+            "symbol": "BobInu",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bobinu.jpg"
         }
     ]
 }
