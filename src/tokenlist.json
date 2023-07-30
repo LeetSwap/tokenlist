@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-29T10:00:00.000Z",
+    "timestamp": "2023-07-29T15:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 28,
+        "minor": 29,
         "patch": 0
     },
     "tokens": [
@@ -343,6 +343,14 @@
             "decimals": 18,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg"
+        },
+        {
+            "name": "Burning Brian",
+            "address": "0x7cc74075d60C059468e267bef5D454D032565325",
+            "symbol": "BRIAN",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/burningbrian.png"
         },
         {
             "name": "Doge Base",
