@@ -383,6 +383,14 @@
             "decimals": 9,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ace.jpg"
+        },
+        {
+            "name": "Mid Curve",
+            "address": "0x9ad6a9EC8763f3Bdf61dd6C8Bd4Ed3dD46ae5a8a",
+            "symbol": "CRV",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/crv.jpg"
         }
     ]
 }
