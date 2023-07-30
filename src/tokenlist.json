@@ -345,6 +345,14 @@
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg"
         },
         {
+            "name": "Pepe on Base",
+            "address": "0xdEbDE9A8F3Ad4f894BB8897D5ad52D242A4e24C7",
+            "symbol": "PEPEX",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/PepeOnBase.png"
+        },
+        {
             "name": "Doge Base",
             "address": "0xA3044b2a9ae8073EcC4E277f6246b3b00FC93553",
             "symbol": "DBASE",
