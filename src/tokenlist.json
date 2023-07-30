@@ -345,6 +345,14 @@
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg"
         },
         {
+            "name": "Pepe on Base",
+            "address": "0xdEbDE9A8F3Ad4f894BB8897D5ad52D242A4e24C7",
+            "symbol": "PEPEX",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/PepeOnBase.png"
+        },
+        {
             "name": "Burning Brian",
             "address": "0x7cc74075d60C059468e267bef5D454D032565325",
             "symbol": "BRIAN",
