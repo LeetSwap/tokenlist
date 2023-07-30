@@ -383,6 +383,14 @@
             "decimals": 9,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ace.jpg"
+        },
+        {
+            "name": "BaldVitalikETHBirthday",
+            "address": "0x533ffae5f9874e92bae1a4c941fccd5cffe8f0a4",
+            "symbol": "ETH",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/BaldVitalikETHBirthday.jpg"
         }
     ]
 }
