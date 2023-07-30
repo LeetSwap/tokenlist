@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-28T23:00:00.000Z",
+    "timestamp": "2023-07-29T10:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 27,
+        "minor": 28,
         "patch": 0
     },
     "tokens": [
@@ -335,6 +335,14 @@
             "decimals": 18,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
+        },
+        {
+            "name": "Bald",
+            "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+            "symbol": "BALD",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg"
         },
         {
             "name": "Doge Base",
