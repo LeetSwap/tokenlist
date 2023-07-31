@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-31T13:00:00.000Z",
+    "timestamp": "2023-07-31T15:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 32,
+        "minor": 33,
         "patch": 0
     },
     "tokens": [
@@ -359,6 +359,14 @@
             "decimals": 18,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/burningbrian.png"
+        },
+        {
+            "name": "Toshi",
+            "address": "0x064f6D3ED291428B61C4369c08E47db2A5ff0D0F",
+            "symbol": "TOSHI",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/toshi.jpg"
         },
         {
             "name": "FEELINGREAL...",
