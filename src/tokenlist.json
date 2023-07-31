@@ -407,6 +407,14 @@
             "decimals": 9,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ace.jpg"
+        },
+        {
+            "name": "FreedomEaglesGreatestCountry...America",
+            "address": "0xc9F3517947a64B13147348d3122033626b0AB748",
+            "symbol": "🗽",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/FreedomEaglesGreatestCountryOnEarthFourthOfJulyGunsApplePieStarsAndStripesMoreFreedomUSAUSAUSAUSAGodBlessAmerica.png"
         }
     ]
 }
