@@ -390,7 +390,7 @@
             "symbol": "HAIR",
             "decimals": 18,
             "chainId": 8453,
-            "logoURI": "https://github.com/BrianWithHair/tokenlist/blob/master/logos/hair.png"
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/hair.png"
         }
     ]
 }
