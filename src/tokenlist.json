@@ -391,6 +391,14 @@
             "decimals": 9,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ace.jpg"
+        },
+        {
+            "name": "Hair",
+            "address": "0x401AF7adfAd7d6233281dC734aaE43B43C8c15eA",
+            "symbol": "HAIR",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/hair.png"
         }
     ]
 }
