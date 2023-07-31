@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-31T11:00:00.000Z",
+    "timestamp": "2023-07-31T13:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 1,
-        "minor": 31,
+        "minor": 32,
         "patch": 0
     },
     "tokens": [
@@ -367,6 +367,14 @@
             "decimals": 8,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/optism.jpg"
+        },
+        {
+            "name": "BASE BOT",
+            "address": "0x09DeB3CF353186E7A84aBfD7434BF643f77eB686",
+            "symbol": "BOT",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/basebot.png"
         },
         {
             "name": "Doge Base",
