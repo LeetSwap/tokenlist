@@ -65,6 +65,14 @@
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/pzkdoge.jpg"
         },
         {
+            "name": "Milady Armstrong",
+            "address": "0xf605E135D2AEE476488884E01B0739201807bFc5",
+            "symbol": "MING",
+            "decimals": 18,
+            "chainId": 1101,
+            "logoURI": "https://i.imgur.com/myp2TDl.png"
+        },
+        {
             "name": "3 Comma Club",
             "address": "0x31fbf0CEFf0C0270aB5f926291eD144F6803CF83",
             "symbol": "THREE",
