@@ -415,6 +415,14 @@
             "decimals": 9,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ace.jpg"
+        },
+        {
+            "name": "GoodMeme",
+            "address": "0xc93f4429CC7fF4EA3EE5dB82DcC88E225e15E514",
+            "symbol": "GM",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/goodmeme.png"
         }
     ]
 }
