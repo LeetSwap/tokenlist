@@ -415,6 +415,14 @@
             "decimals": 9,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ace.jpg"
-        }
+        },
+        {
+            "name": "CHAD BASED",
+            "address": "0x19D84fb6091211BDfEBfC7ecc85eCc8Cb5b62C59",
+            "symbol": "CHAD",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/chad.jpg"
+        },
     ]
 }
