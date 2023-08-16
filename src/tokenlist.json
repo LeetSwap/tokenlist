@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-07-31T15:00:00.000Z",
+    "timestamp": "2023-08-13T15:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
-        "major": 1,
-        "minor": 33,
+        "major": 2,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -23,38 +23,6 @@
             "decimals": 18,
             "chainId": 1101,
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
-        },
-        {
-            "name": "Leet",
-            "address": "0x9aeff862435Cc243D12CEe915e7129629c6a8D5D",
-            "symbol": "LEET",
-            "decimals": 18,
-            "chainId": 7700,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
-        },
-        {
-            "name": "xLEET",
-            "address": "0x32c89133c2702cBde22261D09372C5Bb7815C6CA",
-            "symbol": "XLEET",
-            "decimals": 18,
-            "chainId": 7700,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
-        },
-        {
-            "name": "LeetSwap",
-            "address": "0xEA0B7a3256829190eA5f587509dEE953d213461c",
-            "symbol": "LEET",
-            "decimals": 18,
-            "chainId": 1101,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
-        },
-        {
-            "name": "xLEET",
-            "address": "0x475089fd520af9FD1Fa2CD9933d5B38C07608500",
-            "symbol": "XLEET",
-            "decimals": 18,
-            "chainId": 1101,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
         },
         {
             "name": "Poly zkDOGE",
@@ -265,38 +233,6 @@
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
         },
         {
-            "name": "Leet",
-            "address": "0x0963a1aBAF36Ca88C21032b82e479353126A1C4b",
-            "symbol": "LEET",
-            "decimals": 18,
-            "chainId": 59144,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
-        },
-        {
-            "name": "xLEET",
-            "address": "0xdf0D02351A3e7A21D3936cf1CFd1ee554Cee0a80",
-            "symbol": "XLEET",
-            "decimals": 18,
-            "chainId": 59144,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
-        },
-        {
-            "name": "Linea Kishu",
-            "address": "0x07c14eCf64A6052B514f10C5Dec7a73C862853A5",
-            "symbol": "LKISHU",
-            "decimals": 9,
-            "chainId": 59144,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/lkishu.jpg"
-        },
-        {
-            "name": "lineadoge.vip",
-            "address": "0xaADC008159375E88e078FEf2358CAF9a273F1aB4",
-            "symbol": "LDOGE",
-            "decimals": 18,
-            "chainId": 59144,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ldoge.png"
-        },
-        {
             "name": "BUSD via Celer Network",
             "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
             "symbol": "BUSD",
@@ -305,36 +241,12 @@
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
         },
         {
-            "name": "Linea Shib",
-            "address": "0x7c6cf89b91D47E29c15A2B90F0CE1b0ac9363766",
-            "symbol": "LSHIB",
-            "decimals": 9,
-            "chainId": 59144,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/lshib.jpg"
-        },
-        {
             "name": "Wrapped ETH",
             "address": "0x4200000000000000000000000000000000000006",
             "symbol": "WETH",
             "decimals": 18,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
-        },
-        {
-            "name": "Leet",
-            "address": "0x0963a1aBAF36Ca88C21032b82e479353126A1C4b",
-            "symbol": "LEET",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
-        },
-        {
-            "name": "xLEET",
-            "address": "0xdf0D02351A3e7A21D3936cf1CFd1ee554Cee0a80",
-            "symbol": "XLEET",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
         },
         {
             "name": "Bald",
@@ -351,6 +263,7 @@
             "decimals": 6,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
+
         },
         {
             "name": "Burning Brian",
@@ -423,6 +336,7 @@
             "decimals": 18,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/goodmeme.png"
+
         }
     ]
 }
