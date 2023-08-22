@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-08-19T15:00:00.000Z",
+    "timestamp": "2023-08-20T15:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 2,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tokens": [
@@ -279,6 +279,14 @@
             "decimals": 6,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
+        },
+        {
+            "name": "Wrapped BNB",
+            "address": "0x4200000000000000000000000000000000000006",
+            "symbol": "WBNB",
+            "decimals": 18,
+            "chainId": 204,
+            "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
         }
     ]
 }
