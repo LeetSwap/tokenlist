@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-08-20T15:00:00.000Z",
+    "timestamp": "2023-08-21T15:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 2,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "tokens": [
@@ -287,6 +287,14 @@
             "decimals": 18,
             "chainId": 204,
             "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+        },
+        {
+            "name": "leetswap.finance",
+            "address": "0xf2f41fE10D53e15Ba34e410987Eb0F986eC7509F",
+            "symbol": "LEET",
+            "decimals": 18,
+            "chainId": 204,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
         }
     ]
 }
