@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-09-04T15:00:00.000Z",
+    "timestamp": "2023-09-05T15:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 2,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
     "tokens": [
@@ -231,6 +231,14 @@
             "decimals": 18,
             "chainId": 59144,
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "Wrapped BTC",
+            "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f/logo.png"
         },
         {
             "name": "BUSD via Celer Network",
