@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-08-24T15:00:00.000Z",
+    "timestamp": "2023-09-04T15:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 2,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
     "tokens": [
@@ -239,6 +239,22 @@
             "decimals": 18,
             "chainId": 59144,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+        },
+        {
+            "name": "USDC from Ethereum",
+            "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
+        },
+        {
+            "name": "USDT",
+            "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDT.svg"
         },
         {
             "name": "Wrapped ETH",
