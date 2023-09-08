@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-09-05T15:00:00.000Z",
+    "timestamp": "2023-09-06T15:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 2,
-        "minor": 9,
+        "minor": 10,
         "patch": 0
     },
     "tokens": [
@@ -231,6 +231,14 @@
             "decimals": 18,
             "chainId": 59144,
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "leetswap.finance",
+            "address": "0xff98dCf88D1ae42c7ebb835133AB57481d16076e",
+            "symbol": "LEET",
+            "decimals": 18,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
         },
         {
             "name": "Wrapped BTC",
