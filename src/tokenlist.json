@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-09-11T15:00:00.000Z",
+    "timestamp": "2023-09-12T15:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 2,
-        "minor": 12,
+        "minor": 13,
         "patch": 0
     },
     "tokens": [
@@ -367,6 +367,14 @@
             "decimals": 18,
             "chainId": 169,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
+        },
+        {
+            "name": "Staked LEET",
+            "address": "0xD463786E7d54Fc570A92982157E15130e469dcD8",
+            "symbol": "XLEET",
+            "decimals": 18,
+            "chainId": 169,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
         }
     ]
 }
