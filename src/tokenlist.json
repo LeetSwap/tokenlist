@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-09-12T15:00:00.000Z",
+    "timestamp": "2023-09-18T17:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 2,
-        "minor": 13,
+        "minor": 14,
         "patch": 0
     },
     "tokens": [
@@ -271,6 +271,14 @@
             "decimals": 6,
             "chainId": 59144,
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDT.svg"
+        },
+        {
+            "name": "Linea Doge",
+            "address": "0x3278E54dA0242A941e94b5EbA2F2f2b200942F87",
+            "symbol": "LDOGE",
+            "decimals": 18,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ldoge.png"
         },
         {
             "name": "Wrapped ETH",
