@@ -1,10 +1,10 @@
 {
     "name": "LeetSwap List",
-    "timestamp": "2023-09-18T17:00:00.000Z",
+    "timestamp": "2023-10-08T17:00:00.000Z",
     "logoURI": "https://leetswap.finance/favicon.ico",
     "version": {
         "major": 2,
-        "minor": 14,
+        "minor": 15,
         "patch": 0
     },
     "tokens": [
@@ -383,6 +383,14 @@
             "decimals": 18,
             "chainId": 169,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
+        },
+        {
+            "name": "Wrapped ETH",
+            "address": "0x5300000000000000000000000000000000000004",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 534352,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
         }
     ]
 }
